@@ -4,7 +4,7 @@ public class second {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Get the number of subjects
+        // Get the number of subjects.
         System.out.print("Enter the number of subjects: ");
         int Subjects = scanner.nextInt();
 
